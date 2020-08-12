@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
   <link rel="stylesheet" href="./assets/vue.css">
 </head>
+
 <body>
   <div id="app"></div>
   <script>
@@ -14,9 +16,20 @@
       homepage: 'index.md',
       auto2top: true,
       loadSidebar: true,
-      subMaxLevel: 2
+      subMaxLevel: 2,
+      formatUpdated: '{DD}.{MM}.{YYYY} {HH}:{mm}',
+      plugins: [
+        function(hook, vm) {
+          hook.beforeEach(function(html) {
+            //var url = 'https://github.com/homlador/wp2if8/blob/master/' + vm.route.file
+            //var editHtml = '[Edit on GitHub](' + url + ')\n'
+            return html + "<p style='text-align:right;'>{docsify-updated}<p>\n\n"               
+          })
+        }
+      ],
     }
   </script>
   <script src="./assets/docsify.min.js"></script>
 </body>
+
 </html>
