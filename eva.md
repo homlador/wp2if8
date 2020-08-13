@@ -8,6 +8,8 @@
 
 Quelle: https://de.wikipedia.org/wiki/EVA-Prinzip
 
+Informatiksysteme arbeiten nach dem EVA-Prinzip. Sie bestehen aus **Hardware** (alles was man anfassen kann) und **Software** (Programme, kann man nicht anfassen) und häufig auch Netzwerktechnik, um mit anderen Geräten zu kommunizieren.
+
 ## Aufgabe: Steckbrief zum EVA-Prinzip
 
 Erstelle zu einem Gerät (von Auto bis Zahnbürste) bei dem Informatik eine Rolle spielt einen Steckbrief mit einer Textverarbeitung (Libre Office oder Microsoft Word):
@@ -20,4 +22,4 @@ Zusatzaufgaben:
 - [ ] Ergänze Informationen über die Hardware des Geräts, also z.B. Speicher oder Prozessor
 - [ ] Ergänze Informationen über die Software des Geräts, also z.B. Betriebssystem oder Programme/Apps
 - [ ] Ergänze Informationen darüber, ob das Gerät mit anderen Geräten vernetzt ist
-- [ ] Ergänze ein Bild des Geräts
+- [ ] Ergänze passende Bilder

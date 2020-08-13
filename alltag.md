@@ -1,4 +1,6 @@
-# Wo finden wir Informatik im Alltag?
+# Einstieg
+
+## Wo finden wir Informatik im Alltag?
 
 Überlegt mit einem Partner, wo Informatik in eurem Alltag eine Rolle spielen könnte:
 
@@ -8,3 +10,9 @@
 * Welche Fragen zum Thema Informatik habt ihr?
 
 Sammelt eure Ergebnisse in [diesem Padlet](https://thg.padlet.org/rot14/InfAlltag)
+
+## Was ist Informatik?
+
+> Informatik ist die „Wissenschaft von der systematischen Darstellung, Speicherung, Verarbeitung und Übertragung von  Informationen, besonders der automatischen Verarbeitung mit Digitalrechnern“
+
+Quelle: https://de.wikipedia.org/wiki/Informatik
