@@ -6,3 +6,4 @@ Hier kannst du folgendes lernen:
 * Wie Suchmaschinen funktionieren
 * Wie man mit Formatvorlagen in einer Textverarbeitung umgeht
 * Wie man mit Masterfolien eine Präsentation einheitlich gestaltet
+

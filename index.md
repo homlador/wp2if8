@@ -12,9 +12,9 @@ Du brauchst...
 * Deinen Benutzernamen und dein Passwort für die Schul-PCs
 * Deinen Benutzernamen und dein Passwort für Teams
   * Apropos: Was ist ein [sicheres Passwort](https://checkdeinpasswort.de/)?
+  * Tipp: Benutze einen Passwortmanager, z.B. [Bitwarden](https://bitwarden.com/)
 * Einen Schnellhefter, falls es doch mal ausgedruckte Arbeitsmaterialien gibt
 * Kopfhörer (werden wir manchmal brauchen)
-
 
 Die Abgabe aller Arbeiten erfolgt über [Teams](https://teams.microsoft.com/). Dort könnt ihr auch jederzeit Fragen stellen.
 
