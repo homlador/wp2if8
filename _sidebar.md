@@ -5,3 +5,4 @@
 * [Tabellenkalkulation](tabkal.md)
 * [Digitale Bilder](bilder.md)
 * [HTML und CSS](htmlcss.md)
+* [Lizenz & Quellen](impressum.md)
