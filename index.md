@@ -3,7 +3,30 @@
 ### Regeln
 
 * Die Sitzordnung bleibt auch hier bestehen (Wegen Corona)
-* Jedes Paar hat eine *Person A* (höhere Hausnummer) und eine *Person B*, der PC wird im __wöchentlichen Wechsel__ bedient, je nach Lernwoche. Es startet __B__.
+* Jedes Paar hat eine *Person A* (höhere Hausnummer) und eine *Person B*, der PC wird im __wöchentlichen Wechsel__ bedient, je nach Lernwoche.
+
+Diese Woche, am <span id="curentDate">?</span>, ist <strong><span id="currentActive">?</span></strong> an der Reihe!
+
+<script>
+Date.prototype.getWeek = function() {
+        var onejan = new Date(this.getFullYear(), 0, 1);
+        return Math.ceil((((this - onejan) / 86400000) + onejan.getDay() + 1) / 7);
+    }
+
+    var now = new Date();
+    var weekNumber = now.getWeek();
+    var dayNames = ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'];    
+    //curentDate =  + " (" + weekNumber + ");
+    curentDate = dayNames[now.getDay()] + " " + now.getDate() + "." + now.getMonth() + ".";
+    var current = "?";
+    if (weekNumber % 2 == 0) {
+      currentActive = "A";
+    } else {
+      currentActive = "B";
+    }
+    document.getElementById("currentActive").innerHTML = currentActive;
+    document.getElementById("curentDate").innerHTML = curentDate;
+</script>
 
 ### Arbeitsmaterialien
 
