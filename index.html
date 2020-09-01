@@ -16,7 +16,7 @@
       homepage: 'index.md',
       auto2top: true,
       loadSidebar: true,
-      subMaxLevel: 2,
+      subMaxLevel: 3,
       executeScript: true,
       formatUpdated: '{DD}.{MM}.{YYYY} {HH}:{mm}',
       plugins: [
@@ -25,7 +25,7 @@
             var url = 'https://github.com/homlador/wp2if8/blob/master/' + vm.route.file
             var editHtml = '📝[Edit on GitHub](' + url + ')\n'
             // TODO: Use html-footer
-            return html + "Stand: {docsify-updated} | " + editHtml
+            return html + "\n\nStand: {docsify-updated} | " + editHtml
           })
         }
       ],

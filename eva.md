@@ -1,6 +1,4 @@
-# Informatiksysteme
-
-## Das EVA-Prinzip
+# Das EVA-Prinzip
 
 > Das EVA-Prinzip beschreibt ein Grundprinzip der Datenverarbeitung. Die Abkürzung leitet sich aus den ersten Buchstaben der Begriffe **E**ingabe, **V**erarbeitung und **A**usgabe ab.
 

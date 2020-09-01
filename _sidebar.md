@@ -1,6 +1,5 @@
 * [Überblick](index.md)
-* [Einstieg](alltag.md)
-  * [EVA-Prinzip](eva.md)
+* [Informatik im Alltag](alltag.md)
 * [Recherchieren und Präsentieren](rup.md)
 * [Tabellenkalkulation](tabkal.md)
 * [Digitale Bilder](bilder.md)
