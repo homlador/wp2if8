@@ -18,11 +18,11 @@ Die folgenden Meilensteine sind Etappen auf deinem Weg zum Ziel und werden von d
 Gib deine Meilensteine spätestens in der angegebenen Woche in der jeweiligen Aufgabe über Teams ab.
 Du erhältst zu jedem Meilenstein eine Rückmeldung, was du verbessern kannst und solltest diese Hinweise bei den folgenden Abgaben berücksichtigen.
 
-**1. Meilenstein (Bis 19.8. / LW 2):** Erste Version der Handreichung
+**1. Meilenstein (Bis 2.9. / LW 4):** Erste Version der Handreichung
 
-**2. Meilenstein (Bis 2.9. / LW 4):** Überarbeitung der Handreichung
+**2. Meilenstein (Bis 9.9. / LW 5):** Erste Version der Präsentation
 
-**3. Meilenstein (Bis 16.9. / LW 6):** Erste Version der Präsentation
+**3. Meilenstein (Bis 16.9. / LW 6):** Überarbeitung der Handreichung
 
 **4. Meilenstein (Bis 23.9. / LW 7):** Überarbeitung der Präsentation
 
@@ -32,13 +32,8 @@ Du erhältst zu jedem Meilenstein eine Rückmeldung, was du verbessern kannst un
 
 #### Vorgaben zum Inhalt
 
-Wähle ein Informatiksystem aus dem Alltag und berichte zu mind. 2 der folgenden Aspekte:
-
-* EVA-Prinzip
-* Hardware und Software
-* Rolle im Alltag
-* Chancen und Risiken
-* Deine Antworten auf eigene Fragestellungen
+Wähle ein Informatiksystem aus dem Alltag und berichte zu einer eigenen Fragestellung.
+(Vielleicht sind manche Fragen schon bei der Erstellung des Steckbriefs aufgetaucht?)
 
 #### Allgemeine Vorgaben
 
