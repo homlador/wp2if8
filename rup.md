@@ -67,7 +67,7 @@ Benutze die [Google Suchtipps](https://herr-kalt.de/arbeitsmethoden/google-sucht
 
 ## Bilder
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing" style="zoom: 33%;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing" style="width: 150px" />
 
 Auch wenn wir Bilder verwenden (und andere Medien) dürfen natürlich Quellenangaben nicht fehlen. Bei einem Bild halten wir das folgende fest:
 
