@@ -17,7 +17,7 @@ Date.prototype.getWeek = function() {
     var weekNumber = now.getWeek();
     var dayNames = ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'];    
     //curentDate =  + " (" + weekNumber + ");
-    curentDate = dayNames[now.getDay()] + " " + now.getDate() + "." + now.getMonth() + ".";
+    curentDate = dayNames[now.getDay()] + " " + now.getDate() + "." + (now.getMonth()+1) + ".";
     var current = "?";
     if (weekNumber % 2 == 0) {
       currentActive = "A";
