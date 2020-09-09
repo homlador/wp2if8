@@ -39,16 +39,16 @@ Wähle ein Informatiksystem aus dem Alltag und berichte zu einer eigenen Fragest
 
 * Verwendung von Creative-Commons lizensierten Bildern
 * Die verwendeten Quellen korrekt angeben
-* Beachtung der von uns aufgestellten **Kriterien für eine gute Präsentation**
+* Beachtung der von uns aufgestellten **Kriterien für eine gute Präsentation** (du findest sie [in Teams unter Dateien->Kursmaterialien](https://teams.microsoft.com/l/file/DFC26DC6-EF17-4F50-B116-9A4C1E12A233?tenantId=970ea20b-2dc3-4020-8148-5481a244e982&fileType=docx&objectUrl=https%3A%2F%2Fthgdinslakende.sharepoint.com%2Fsites%2FInformatikStufe8%2FKursmaterialien%2FKriterien%20gute%20Pr%C3%A4sentationen.docx&baseUrl=https%3A%2F%2Fthgdinslakende.sharepoint.com%2Fsites%2FInformatikStufe8&serviceName=teams&threadId=19:236c88848f9740df8c4c38abaa0398c0@thread.tacv2&groupId=89725246-4247-4b5c-8b41-6d0509339d14)
 
 #### Vorgaben zur Präsentation
 
 Die Folien dienen zur Veranschaulichung deines Vortrags.
 
-* 10 Minuten freier Vortrag (Karteikarten oder Notizenfunktion verwenden!)
+* 10 Minuten freier Vortrag
 * 5 Folien
 * zusätzliche Folien zu Titel, Inhalt und Quellen
-* Autoren und Seitenzahl durch Masterfolien auf jeder Folie
+* Verwenden von Masterfolien und/oder der Notizenfunktion
 * Bilder statt Texte!
 
 #### Vorgaben zur Handreichung
